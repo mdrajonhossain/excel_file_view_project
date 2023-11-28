@@ -24,7 +24,10 @@ const App = () => {
       name: "Re-Insurance / Co Insurance Receivable at end of the quarter:",
       a: "Re-Insurance Claims amount receivable from SBC as at end of the quarter",
       b: "Re-Insurance Claims amount receivable from Others as at end of the quarter",
-      d: " Co Insurance premium receivable as at end of the quarter"}
+      d: " Co Insurance premium receivable as at end of the quarter"},
+    { id: 8, 
+      name: "Number of Policy (With Cover note) issued during the quarter :",
+      a: "Fire", b: "Marine (Cargo)", c: "Marine (Hull)", d: " Motor", e: "Micellaneous"}
       
       
   ]
